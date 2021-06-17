@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/alarm_system.dir/alarm_system.c.o CMakeFiles/alarm_system.dir/alarm.c.o CMakeFiles/alarm_system.dir/sensors.c.o CMakeFiles/alarm_system.dir/periodic.c.o CMakeFiles/alarm_system.dir/logger.c.o  -o alarm_system -lpthread -lrt 

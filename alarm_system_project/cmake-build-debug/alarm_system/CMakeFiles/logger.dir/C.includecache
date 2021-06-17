@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/CLionProjects/alarm_system_project/alarm_system/logger.c
+stdio.h
+-
+pthread.h
+-
+mqueue.h
+-
+time.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfiles.a  CMakeFiles/files.dir/alarm_system.c.o CMakeFiles/files.dir/logger.c.o
+/usr/bin/ranlib libfiles.a

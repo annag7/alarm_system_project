@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/alarm_system_project.dir/alarm_system/main.c.o  -o alarm_system_project 

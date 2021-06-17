@@ -1,0 +1,5 @@
+/home/anna/CLionProjects/alarm_system_project/build/CMakeFiles/edit_cache.dir
+/home/anna/CLionProjects/alarm_system_project/build/CMakeFiles/rebuild_cache.dir
+/home/anna/CLionProjects/alarm_system_project/build/alarm_system/CMakeFiles/edit_cache.dir
+/home/anna/CLionProjects/alarm_system_project/build/alarm_system/CMakeFiles/rebuild_cache.dir
+/home/anna/CLionProjects/alarm_system_project/build/alarm_system/CMakeFiles/alarm_system.dir

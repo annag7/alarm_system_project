@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="alarm_system_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\alarm_system\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alarm_system">
+				<Option output="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/alarm_system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 alarm_system"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alarm_system/fast">
+				<Option output="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/alarm_system" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 alarm_system/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/anna/CLionProjects/alarm_system_project/cmake-build-debug/alarm_system/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/alarm.c">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/alarm.h">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/alarm_system.c">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/logger.c">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/logger.h">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/periodic.c">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/periodic.h">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/sensors.c">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/sensors.h">
+			<Option target="alarm_system"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/anna/CLionProjects/alarm_system_project/alarm_system/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\alarm_system\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
